@@ -1,5 +1,5 @@
 # Shadowy Super Coder Proposal
-##Background
+## Background
 A couple of days ago, U.S. Senator Elizabeth Warren expressed that _**"Crypto Puts Financial System in the Hands of 
 'Shadowy Super-Coders'"**_. 
 Check out the full story [here](https://decrypt.co/76997/elizabeth-warren-crypto-big-banks-shadowy-super-coders). 
