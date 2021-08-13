@@ -25,7 +25,7 @@ These addresses are ranked in two tiers:
 
 Special shout out to our Super-Coder friend @Banteg who helped curate data.
 
-### Result File
+### Result Files
 As we run the queries on Google big query, we export the results to a public google folder [here](https://drive.google.com/drive/folders/1OobRsPXVO66PlKUE6cxOHpPxesxrYiru?usp=sharing). 
 You can also find it under this repo, it's under:
 ```path
@@ -34,7 +34,7 @@ results/tier-1.csv
 results/tier-2.csv
 ```
 
-### Reproduce the results
+### Reproduce The Results
 Check below scripts in this repo for details:
 ```path
 scripts/create_views.sql
