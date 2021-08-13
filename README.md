@@ -21,7 +21,7 @@ which are used for the NFT and perks drop. Here are the rules and result:
 
 These addresses are ranked in two tiers:
 1. **7,466 Shadowy Super-Coders**: those that served >=500 unique addresses & contracts had at least 1 transaction in 2021.
-2. **102,828 Shadowy Coders**: those that served less <500 unique addresses || those that served >=500 but have no active tx since 2021.
+2. **102,828 Shadowy Coders**: those that served less <500 unique addresses or those that served >=500 but have no active transaction since 2021.
 
 Special shout out to our Super-Coder friend @Banteg who helped curate data.
 
