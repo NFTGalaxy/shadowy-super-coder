@@ -1,4 +1,4 @@
-# Shadowy Super Coder Proposal
+# Shadowy Super Coder
 ## Background
 A couple of days ago, U.S. Senator Elizabeth Warren expressed that _**"Crypto Puts Financial System in the Hands of 
 'Shadowy Super-Coders'"**_. 
@@ -20,10 +20,10 @@ which are used for the NFT and perks drop. Here are the rules and result:
 2. Deployed contracts that had at least 2 different non-deployer addresses interacted.
 
 These addresses are ranked in two tiers:
-1. **7,466 Shadowy Super-Coders**: those that served >=500 unique addresses & contracts had at least 1 transaction in 2021.
-2. **102,828 Shadowy Coders**: those that served less <500 unique addresses or those that served >=500 but have no active transaction since 2021.
+1. Tier 1 **7,466 Shadowy Super-Coders**: those that served >=500 unique addresses & contracts had at least 1 transaction in 2021.
+2. Tier 2 **102,828 Shadowy Coders**: those that served less <500 unique addresses or those that served >=500 but have no active transaction since 2021.
 
-Special shout out to our Super-Coder friend @Banteg who helped curate data.
+Special shout out to our Super-Coder friend @banteg who helped curate data.
 
 ### Result Files
 As we run the queries on Google big query, we export the results to a public google folder [here](https://drive.google.com/drive/folders/1OobRsPXVO66PlKUE6cxOHpPxesxrYiru?usp=sharing). 
