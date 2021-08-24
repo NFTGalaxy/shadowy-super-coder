@@ -16,7 +16,7 @@ This repo contains queries run on [ethereum public dataset on google bigquery](h
 which are used for the NFT and perks drop. Here are the rules and result:
 
 **110,294** Ethereum addresses who:
-1. Deployed at least 1 contract on Ethereum mainnet before August 1st, 2021.
+1. Deployed at least 1 contract on Ethereum mainnet before _August 1st, 2021_.
 2. Deployed contracts that had at least 2 different non-deployer addresses interacted.
 
 These addresses are ranked in two tiers:
