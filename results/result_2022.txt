@@ -1,7 +1,11 @@
+ssr data
 data calculated bofore 2023/1/1(all transactions bofore 2022 are included)
+
 eligible 
 https://storage.googleapis.com/vincent-ssr/ssr-2022/eligible-2022
+
 tier1
 https://storage.googleapis.com/vincent-ssr/ssr-2022/eoa-tier1-2022
+
 tier2
 https://storage.googleapis.com/vincent-ssr/ssr-2022/eoa-tier2-2022
